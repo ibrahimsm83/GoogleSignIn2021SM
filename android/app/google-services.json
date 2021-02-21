@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "585263610675",
+    "project_id": "sininsm-cdc8c",
+    "storage_bucket": "sininsm-cdc8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585263610675:android:db7a9c446ea268846f1c46",
+        "android_client_info": {
+          "package_name": "com.example.googlesininSM"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585263610675-hu341pe88b4k3o26ctpg275ap5u75q7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlesininSM",
+            "certificate_hash": "d2737aa22b60701a1bfcfdc6adeb9d6624a608bb"
+          }
+        },
+        {
+          "client_id": "585263610675-c7fftq5pp2pps212511jgi2ccrjfal32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVSbi0p_nLSNOPspY_2-dN2ualCAqFA74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585263610675-c7fftq5pp2pps212511jgi2ccrjfal32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
